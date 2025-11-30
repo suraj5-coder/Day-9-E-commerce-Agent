@@ -1,0 +1,23 @@
+[
+  {
+    "order_id": "ORD-D915B6",
+    "timestamp": "2025-11-30T15:04:14.720560",
+    "items": [
+      {
+        "product_id": "hoodie-dev-blk",
+        "name": "Developer Hoodie (Black)",
+        "quantity": 1,
+        "size": "large"
+      },
+      {
+        "product_id": "mug-neural",
+        "name": "Neural Network Mug",
+        "quantity": 1,
+        "size": "N/A"
+      }
+    ],
+    "total_amount": 1998,
+    "currency": "INR",
+    "status": "CONFIRMED"
+  }
+]
